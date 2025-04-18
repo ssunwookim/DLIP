@@ -8,7 +8,7 @@
 
 **Author:** SUN-WOO KIM 22000090
 
-**Github:**
+**Github:** [LAB: Magic Cloak](https://github.com/ssunwookim/DLIP/blob/main/LAB/LAB: Magic Cloak.md)
 
 **Demo video :** [DLIP_2025/04/18_SUN-WOO KIM_LAB: Magic Cloak](https://studio.youtube.com/video/VqORLpUr_zM/edit)
 
